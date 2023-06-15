@@ -1,4 +1,4 @@
-<center><h1 align="center" id="macropower-title">
+<h1 align="center" id="macropower-title">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
   Hi there, I´m Paco! 👨🏻‍💻
 </h1>
@@ -38,4 +38,3 @@
 ###### Tools & DevOps
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6272a4)
-</center>
