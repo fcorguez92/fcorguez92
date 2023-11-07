@@ -71,16 +71,3 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-###### Development
-
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6272a4)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6272a4)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css3&logoColor=white&color=6272a4)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6272a4)
-
-###### Tools & DevOps
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6272a4)
