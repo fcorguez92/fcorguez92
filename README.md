@@ -22,13 +22,6 @@
   </a>
 </div>
 
-### :desktop_computer: Favorite Techs
-
-###### Operational Systems
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6272a4)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6272a4)
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
