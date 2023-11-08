@@ -1,6 +1,6 @@
 <h1 align="center" id="macropower-title">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
-  ¡Hola! Soy Paco 👨🏻‍💻
+  Hello there! I'm Paco 👨🏻‍💻
 </h1>
 
 <p align="center">
