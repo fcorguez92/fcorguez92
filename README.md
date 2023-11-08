@@ -1,26 +1,28 @@
 <h1 align="center" id="macropower-title">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
-  Hola there, I´m Paco! 👨🏻‍💻
+  ¡Hola! Soy Paco 👨🏻‍💻
 </h1>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=fcorguez92&label=Eres%20el%20visitante%20Nº&color=brightgreen&style=flat" alt="fcorguez92"/>
 </p>
 
-  
- <a href="https://github.com/fcorguez92?tab=followers">
-    <img alt="Follow me" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/JuanJesusAlejoSillero?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow%20Me&logoColor=white"/></a>
-</p>
+<a href="https://github.com/fcorguez92?tab=followers">
+    <img alt="Follow me" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/JuanJesusAlejoSillero?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow%20Me&logoColor=white"/>
+</a>
 
 ### &#x1f4c8; GitHub Stats
-<div style="display: inline_block", align="left">
-  <center><a href="#">
-  <img align="center" height="140"  src="https://github-readme-stats.vercel.app/api?username=fcorguez92&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
-   </a>
+<div align="center">
   <a href="#">
- <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcorguez92&theme=tokyonight&border_radius=15px&layout=compact">
-  </a></center>
+    <img height="140"  src="https://github-readme-stats.vercel.app/api?username=fcorguez92&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px" style="width: 100%">
+  </a>
+  <a href="#">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcorguez92&theme=tokyonight&border_radius=15px&layout=compact" style="width: 100%">
+  </a>
 </div>
+
+## My Skill Set  
+<!-- Resto del código... -->
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
