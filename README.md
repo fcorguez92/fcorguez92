@@ -12,7 +12,7 @@
 </a>
 
 ### &#x1f4c8; GitHub Stats
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: space-between;">
   <a href="#">
     <img height="140" src="https://github-readme-stats.vercel.app/api?username=fcorguez92&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px" style="margin-right: 10px;">
   </a>
