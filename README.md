@@ -13,13 +13,14 @@
 
 ### &#x1f4c8; GitHub Stats
 <div align="center">
-  <a href="#">
-    <img height="140"  src="https://github-readme-stats.vercel.app/api?username=fcorguez92&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px" style="width: 100%">
+  <a href="#" style="display: inline-block;">
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=fcorguez92&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px" style="width: 100%;">
   </a>
-  <a href="#">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcorguez92&theme=tokyonight&border_radius=15px&layout=compact" style="width: 100%">
+  <a href="#" style="display: inline-block;">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcorguez92&theme=tokyonight&border_radius=15px&layout=compact" style="width: 100%;">
   </a>
 </div>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
